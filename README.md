@@ -139,19 +139,3 @@ The backend provides various endpoints to fetch business data and insights:
 - `GET /api/suppliers` & `/api/purchase-orders`: Procurement and supplier data.
 - `POST /api/chat`: AI chat interface endpoint.
 
-## 📱 Android Application
-
-This project now includes a fully functional Android application wrapper!
-- Built using **Jetpack Compose** and **WebView**.
-- Automatically loads the local SME Growth Advisor dashboard when the backend is running.
-- Includes properly configured Gradle scripts for seamless development in Android Studio.
-
-To run the Android app:
-1. Start the backend server (`python api.py`).
-2. Open the project root folder in Android Studio.
-3. Sync Gradle and hit **Run**.
-
-<br/>
-<div align="center">
-  <p>Built with ❤️ for SMEs</p>
-</div>
