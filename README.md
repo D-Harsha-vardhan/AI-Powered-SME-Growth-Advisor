@@ -138,4 +138,3 @@ The backend provides various endpoints to fetch business data and insights:
 - `GET /api/customers` & `/api/pending-payments`: Customer profiles and overdue invoices.
 - `GET /api/suppliers` & `/api/purchase-orders`: Procurement and supplier data.
 - `POST /api/chat`: AI chat interface endpoint.
-
